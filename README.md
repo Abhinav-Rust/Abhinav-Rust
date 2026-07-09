@@ -3,7 +3,7 @@
 
 > "I spend far more time asking **'What is the underlying structure?'** than **'Which programming language should I use?'**"
 
-My work and curiosity sit at the intersection of **AI systems**, **software architecture**, **quantitative trading**, **symbolic reasoning**, and **scientific discovery**. Rather than specializing in a specific technology stack, I focus on discovering structural isomorphisms—finding the common architectures and hidden patterns that connect seemingly unrelated domains.
+My work and curiosity sit at the intersection of **AI systems**, **software architecture**, **quantitative trading**, **symbolic reasoning**, and **scientific discovery**. Rather than specializing in a specific technology stack, my cognitive strength is in discovering structural isomorphisms—finding the common architectures and hidden patterns that connect seemingly unrelated domains.
 
 ---
 
