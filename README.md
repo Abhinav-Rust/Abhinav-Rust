@@ -1,9 +1,13 @@
 # 🏛️ Abhinav Sharma
 ### *Systems Thinker & Conceptual Architect*
 
+
 > "I spend far more time asking **'What is the underlying structure?'** than **'Which programming language should I use?'**"
 
+
 My work and curiosity sit at the intersection of **AI systems**, **software architecture**, **quantitative trading**, **symbolic reasoning**, and **scientific discovery**. 
+
+
 
 Rather than specializing in a specific technology stack, **MY COGNITIVE STRENGTH IS IN DISCOVERING STRUCTURAL ISOMORPHISMS—FINDING THE COMMON ARCHITECTURES AND HIDDEN PATTERNS THAT CONNECT SEEMINGLY UNRELATED DOMAINS.**
 
